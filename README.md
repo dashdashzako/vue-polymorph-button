@@ -1,29 +1,29 @@
 # vue-polymorph-button
 
 ## Project setup
-```
+
+```sh
 yarn install
 ```
 
 ### Compiles and hot-reloads for development
-```
+
+```sh
 yarn serve
 ```
 
 ### Compiles and minifies for production
-```
+
+```sh
 yarn build
 ```
 
-### Run your unit tests
-```
-yarn test:unit
-```
-
 ### Lints and fixes files
-```
+
+```sh
 yarn lint
 ```
 
 ### Customize configuration
+
 See [Configuration Reference](https://cli.vuejs.org/config/).
